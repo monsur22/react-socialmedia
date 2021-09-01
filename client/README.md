@@ -1,3 +1,8 @@
+#live server in Netlify forntend
+https://social-media-crud.netlify.app/
+
+#backend in heruko server
+https://social-media-crud.herokuapp.com/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
